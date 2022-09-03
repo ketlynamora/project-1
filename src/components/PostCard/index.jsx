@@ -1,3 +1,5 @@
+import "./styles.css";
+
 export const PostCard = ({ post }) => (
   // OR
   // const post = props.post;
